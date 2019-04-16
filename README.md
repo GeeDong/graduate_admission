@@ -11,21 +11,21 @@
 2. 데이터 적재
 3. 탐색적 데이터 분석 (EDA)
 >- general information
-- IV 탐색
-- DV 탐색
+>- IV 탐색
+>- DV 탐색
 4. 특성 공학 (Feature Engineering)
 >- feature engineering 전 모델링
-- feature importance 
-- 예측변수 제거
-- 변수 추가
-- 가변수 생성
-- 데이터 준비
-- 변수 scaling
+>- feature importance 
+>- 예측변수 제거
+>- 변수 추가
+>- 가변수 생성
+>- 데이터 준비
+>- 변수 scaling
 5. 지도학습 알고리즘을 활용한 회귀 모델링
 >- linear regression
-- elastic net
-- linear SVM regression
-- Random forest regression
+>- elastic net
+>- linear SVM regression
+>- Random forest regression
 6. 결론
 
 데이터 전처리: feature importance 계산/ 예측변수 제거 및 새로운 변수 추가/ 가변수 생성/ 변수 scaling <br>
