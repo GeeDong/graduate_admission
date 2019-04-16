@@ -28,7 +28,7 @@
 - Random forest regression
 6. 결론
 
-데이터 전처리: feature importance 계산/ 예측변수 제거 및 새로운 변수 추가/ 가변수 생성/ 변수 scaling
+데이터 전처리: feature importance 계산/ 예측변수 제거 및 새로운 변수 추가/ 가변수 생성/ 변수 scaling <br>
 데이터 분석: linear regression, elastic net 등의 회귀 머신러닝 기법으로 'Chance of Admit' 모델링
 
 
