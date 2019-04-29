@@ -3,9 +3,9 @@
 대학원의 입학 가능 확률을 아는 것은 전략적 대학원 지원을 위해 중요한 일이다. <br>
 본 커널의 목적은 ‘GRE Score’, ‘TOEFL Score’, ‘CGPA’, ‘University Rating’, ‘SOP’, ‘LOR’, ‘Research’ 의 7 항목을 토대로 ‘Chance of Admit’의 모델링 하는 것이다.
 
-목표: ‘GRE Score’, ‘TOEFL Score’, ‘CGPA’, ‘University Rating’, ‘SOP’, ‘LOR’, ‘Research’ 의 7 항목을 토대로 ‘Chance of Admit’을 모델 개발 <br>
-사용언어 & 툴: python <br>
-데이터 수집: kaggle dataset 'graduate-admissions'를 통해 수집
+**목표**: ‘GRE Score’, ‘TOEFL Score’, ‘CGPA’, ‘University Rating’, ‘SOP’, ‘LOR’, ‘Research’ 의 7 항목을 토대로 ‘Chance of Admit’을 모델 개발 <br>
+**사용언어 & 툴**: python <br>
+**데이터 수집**: kaggle dataset 'graduate-admissions'를 통해 수집
 
 1. 서론
 2. 라이브러리 로드
